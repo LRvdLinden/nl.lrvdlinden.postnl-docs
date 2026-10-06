@@ -12,3 +12,4 @@
 * [Flow-tokens](tokens.md)
 * [Flow-voorbeelden](examples.md)
 * [Problemen oplossen](troubleshooting.md)
+* [Changelog](changelog.md)
