@@ -1,7 +1,9 @@
 # Changelog
 
-Discover new features, improvements and fixes for PostNL for Homey on Headway.
+Find all new features, improvements and fixes for PostNL for Homey in the changelog on Headway.
 
-[📦 View the PostNL changelog](https://headwayapp.co/postnl-changelog)
+{% content-ref url="https://headwayapp.co/postnl-changelog" %}
+[View the PostNL changelog](https://headwayapp.co/postnl-changelog)
+{% endcontent-ref %}
 
-Release notes are maintained on Headway, including changes from previous versions.
+Open the card to view the latest release notes and the complete version history.
