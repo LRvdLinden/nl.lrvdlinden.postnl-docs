@@ -2,27 +2,18 @@ $schema: https://api.gitbook.com/gitbook-docs.yaml
 site:
   title: PostNL for Homey
   structure:
-    - type: section
-      key: postnl-documentation
-      title: Documentation
-      localizedTitle:
-        en: Documentation
-        nl: Handleiding
-      path: docs
+    - type: space
+      key: postnl-nl
+      title: Nederlands
+      path: nl
       default: true
-      children:
-        - type: space
-          key: postnl-nl
-          title: Nederlands
-          path: nl
-          default: true
-          content:
-            directory: ./nl
-            language: nl
-        - type: space
-          key: postnl-en
-          title: English
-          path: en
-          content:
-            directory: ./en
-            language: en
+      content:
+        directory: ./nl
+        language: nl
+    - type: space
+      key: postnl-en
+      title: English
+      path: en
+      content:
+        directory: ./en
+        language: en
