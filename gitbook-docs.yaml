@@ -6,8 +6,8 @@ site:
       key: postnl-documentation
       title: Documentation
       localizedTitle:
-        nl: Handleiding
         en: Documentation
+        nl: Handleiding
       path: docs
       default: true
       children:
