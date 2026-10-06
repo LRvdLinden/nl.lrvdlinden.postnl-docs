@@ -1,0 +1,14 @@
+# Table of contents
+
+* [Welkom](README.md)
+* [Installeren en koppelen](installation.md)
+* [Apparaatgegevens](device.md)
+* [Widgets](widgets.md)
+  * [Mijn Post](widgets/mijn-post.md)
+  * [Mijn Pakketten](widgets/mijn-pakket.md)
+  * [Mijn Bezorging](widgets/pakket-details.md)
+  * [Reis van je pakket](widgets/pakket-reis.md)
+* [Flow-kaarten](flows.md)
+* [Flow-tokens](tokens.md)
+* [Flow-voorbeelden](examples.md)
+* [Problemen oplossen](troubleshooting.md)

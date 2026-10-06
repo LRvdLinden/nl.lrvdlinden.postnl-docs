@@ -1,0 +1,16 @@
+# PostNL for Homey
+
+![PostNL](assets/postnl-cover.png)
+
+Your mail and parcels together in Homey. View expected mail, follow deliveries and let Homey react when something changes.
+
+This guide describes **version 1.2.1**. An older Store release may offer fewer features.
+
+## Start here
+
+- [Install and connect](installation.md)
+- [Widgets](widgets.md)
+- [Flow cards](flows.md)
+- [Troubleshooting](troubleshooting.md)
+
+[Homey App Store](https://homey.app/nl-nl/app/nl.lrvdlinden.postnl/PostNL/) · [Community](https://community.homey.app/t/app-pro-postnl-for-homey/159674)
