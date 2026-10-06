@@ -12,3 +12,4 @@
 * [Flow tokens](tokens.md)
 * [Flow examples](examples.md)
 * [Troubleshooting](troubleshooting.md)
+* [Changelog](changelog.md)
