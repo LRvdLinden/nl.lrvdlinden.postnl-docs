@@ -1,9 +1,7 @@
 # Changelog
 
-Alle nieuwe functies, verbeteringen en opgeloste problemen van PostNL voor Homey vind je in de changelog op Headway.
+Bekijk alle nieuwe functies, verbeteringen en opgeloste problemen van PostNL voor Homey op Headway.
 
-{% content-ref url="https://headwayapp.co/postnl-changelog" %}
-[Bekijk de PostNL-changelog](https://headwayapp.co/postnl-changelog)
-{% endcontent-ref %}
+[📦 Bekijk de PostNL-changelog](https://headwayapp.co/postnl-changelog)
 
-Open de kaart om de nieuwste releaseberichten en de volledige versiegeschiedenis te bekijken.
+De releaseberichten worden op Headway bijgehouden. Daar vind je ook de wijzigingen van eerdere versies.
