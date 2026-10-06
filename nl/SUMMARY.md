@@ -3,7 +3,7 @@
 * [Welkom](README.md)
 * [Installeren en koppelen](installation.md)
 * [Apparaatgegevens](device.md)
-* [Widgets](widgets.md)
+* [Widgets](widgets/README.md)
   * [Mijn Post](widgets/mijn-post.md)
   * [Mijn Pakketten](widgets/mijn-pakket.md)
   * [Mijn Bezorging](widgets/pakket-details.md)
