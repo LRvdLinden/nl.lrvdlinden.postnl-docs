@@ -3,7 +3,7 @@
 * [Welcome](README.md)
 * [Install and connect](installation.md)
 * [Device data](device.md)
-* [Widgets](widgets.md)
+* [Widgets](widgets/README.md)
   * [My Post](widgets/mijn-post.md)
   * [My Packages](widgets/mijn-pakket.md)
   * [My Delivery](widgets/pakket-details.md)
