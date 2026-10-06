@@ -2,8 +2,8 @@
 
 Follow the available status events for an active parcel. The widget selects an undelivered parcel with available events, ordered by expected delivery. No journey is shown when no suitable parcel is available.
 
-![Parcel Journey – light](../.gitbook/assets/pakket-reis-light.png)
+![Parcel Journey – light](../.gitbook/assets/mijn-pakket-light.png)
 
-![Parcel Journey – dark](../.gitbook/assets/pakket-reis-dark.png)
+![Parcel Journey – dark](../.gitbook/assets/mijn-pakket-dark.png)
 
 Select the correct My PostNL device when adding the widget. See [Troubleshooting](../troubleshooting.md) if data is missing.
