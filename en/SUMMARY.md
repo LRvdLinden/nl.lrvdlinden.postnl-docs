@@ -13,3 +13,4 @@
 * [Flow examples](examples.md)
 * [Troubleshooting](troubleshooting.md)
 * [Changelog](changelog.md)
+* [About the developer](developer.md)
