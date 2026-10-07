@@ -17,8 +17,8 @@ Your mail and parcels together in Homey. View expected mail, follow deliveries a
 
 Developed by **Léon van der Linden**.
 
-[![PixelForges — Verified developer](.gitbook/assets/verified-developer.svg)](https://homey.app/en-nl/apps/author/65ae19782cc242fe976b7529/page/0/)
+[![PixelForges — Verified developer](.gitbook/assets/verified-developer.svg)](https://homey.app/en-nl/apps/author/6ac4bc064c7de6266bbdb73e/page/0/)
 
-* [View more apps by PixelForges](https://homey.app/en-nl/apps/author/65ae19782cc242fe976b7529/page/0/)
+* [View more apps by PixelForges](https://homey.app/en-nl/apps/author/6ac4bc064c7de6266bbdb73e/page/0/)
 * [View more apps by Léon van der Linden](https://homey.app/en-nl/apps/author/5d4da77a2c836a50f6936070/page/0/)
 * [About the developer](developer.md)
