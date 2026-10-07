@@ -4,8 +4,6 @@
 
 Je post en pakketten op één plek in Homey. Bekijk verwachte post, volg je pakketten en laat Homey reageren zodra er iets verandert.
 
-Deze handleiding beschrijft **versie 1.2.1**. Een oudere Store-versie kan minder functies bevatten.
-
 ## Begin hier
 
 * [Installeren en koppelen](installation.md)
