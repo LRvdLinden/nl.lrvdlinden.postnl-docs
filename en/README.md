@@ -4,8 +4,6 @@
 
 Your mail and parcels together in Homey. View expected mail, follow deliveries and let Homey react when something changes.
 
-This guide describes **version 1.2.1**. An older Store release may offer fewer features.
-
 ## Start here
 
 * [Install and connect](installation.md)
