@@ -2,7 +2,7 @@
 
 Use the cards belonging to the correct My PostNL device. A trigger supplies data for the event that starts the Flow.
 
-![PostNL Flow cards in English](.gitbook/assets/flow-cards.png)
+![PostNL Flow cards in English](<.gitbook/assets/flow-cards (1).png>)
 
 ## When…
 
