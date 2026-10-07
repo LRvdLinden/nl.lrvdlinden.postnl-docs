@@ -13,4 +13,3 @@
 * [Flow-voorbeelden](examples.md)
 * [Problemen oplossen](troubleshooting.md)
 * [Changelog](changelog.md)
-* [Over de ontwikkelaar](developer.md)
