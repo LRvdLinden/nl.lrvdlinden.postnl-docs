@@ -12,7 +12,3 @@ Your mail and parcels together in Homey. View expected mail, follow deliveries a
 * [Troubleshooting](troubleshooting.md)
 
 [Homey App Store](https://homey.app/nl-nl/app/nl.lrvdlinden.postnl/PostNL/) · [Community](https://community.homey.app/t/app-pro-postnl-for-homey/159674)
-
----
-
-Developed by **Léon van der Linden** · [About the developer](developer.md) · [More apps by PixelForges](https://homey.app/en-nl/apps/author/65ae19782cc242fe976b7529/page/0/)
