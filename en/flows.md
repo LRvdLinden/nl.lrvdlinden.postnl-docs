@@ -2,27 +2,26 @@
 
 Use the cards belonging to the correct My PostNL device. A trigger supplies data for the event that starts the Flow.
 
-![PostNL Flow cards in English](assets/flow-cards.png)
-
+![PostNL Flow cards in English](.gitbook/assets/flow-cards.png)
 
 ## When…
 
-- New mail is expected
-- A new parcel was found
-- A delivery window became available
-- A parcel status changed
-- PostNL synchronization failed
-- The PostNL login expired
+* New mail is expected
+* A new parcel was found
+* A delivery window became available
+* A parcel status changed
+* PostNL synchronization failed
+* The PostNL login expired
 
 ## And…
 
-- Mail is expected
-- Parcels are underway
-- A delivery window is known
+* Mail is expected
+* Parcels are underway
+* A delivery window is known
 
 ## Then…
 
-- Synchronize PostNL
+* Synchronize PostNL
 
 ## What happens when a delivery window changes?
 
