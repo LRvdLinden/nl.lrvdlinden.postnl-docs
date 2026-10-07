@@ -2,27 +2,26 @@
 
 Gebruik de kaarten van het juiste Mijn PostNL-apparaat. Een trigger geeft de gegevens mee van de gebeurtenis die de Flow start.
 
-![PostNL Flow-kaarten in het Nederlands](assets/flow-cards.png)
-
+![PostNL Flow-kaarten in het Nederlands](.gitbook/assets/flow-cards.png)
 
 ## Als…
 
-- Er is nieuwe post onderweg
-- Er is een nieuw pakket gevonden
-- Er is een bezorgvenster bekend
-- De status van een pakket is gewijzigd
-- PostNL-synchronisatie is mislukt
-- De PostNL-aanmelding is verlopen
+* Er is nieuwe post onderweg
+* Er is een nieuw pakket gevonden
+* Er is een bezorgvenster bekend
+* De status van een pakket is gewijzigd
+* PostNL-synchronisatie is mislukt
+* De PostNL-aanmelding is verlopen
 
 ## En…
 
-- Er wordt post verwacht
-- Er zijn pakketten onderweg
-- Er is een bezorgvenster bekend
+* Er wordt post verwacht
+* Er zijn pakketten onderweg
+* Er is een bezorgvenster bekend
 
 ## Dan…
 
-- Synchroniseer PostNL
+* Synchroniseer PostNL
 
 ## Wanneer verandert een bezorgvenster?
 
