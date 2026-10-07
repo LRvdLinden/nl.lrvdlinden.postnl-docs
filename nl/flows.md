@@ -2,6 +2,9 @@
 
 Gebruik de kaarten van het juiste Mijn PostNL-apparaat. Een trigger geeft de gegevens mee van de gebeurtenis die de Flow start.
 
+![PostNL Flow-kaarten in het Nederlands](assets/flow-cards.png)
+
+
 ## Als…
 
 - Er is nieuwe post onderweg

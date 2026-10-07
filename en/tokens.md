@@ -2,6 +2,10 @@
 
 Tokens belong to a trigger. An empty field means information is unavailable. Image tokens work with Homey actions that support images. Check the associated availability value first.
 
+![PostNL Flow cards in English](assets/flow-cards.png)
+
+Overview of the PostNL Flow cards. The tokens for each trigger are described below.
+
 ## New mail is expected
 
 | Token | Meaning | Type |

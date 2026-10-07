@@ -1,14 +1,26 @@
 # Install and connect
 
+## Install the app
+
+[**Install the PostNL app for Homey (test version)**](https://homey.app/a/nl.lrvdlinden.postnl/test/)
+
+This link installs the test version, which may be newer than the regular App Store release.
+
 ## Requirements
 
 - A compatible Homey running version 12.3.0 or later. The app targets the local Homey platform.
 - A PostNL account with mail and/or parcels available.
-- Chrome with the PostNL Chrome Login Helper to capture the sign-in callback. Follow the download and setup instructions in the community topic.
+- Chrome with the PostNL Chrome Login Helper to capture the sign-in callback. Download the helper below. Additional setup instructions are available in the community topic.
+
+## Download the Login Helper
+
+[**Download the PostNL Homey Login Helper here**](https://lrvdlinden.app/Extentions/PostNL-Homey-Login-Helper.zip)
+
+Extract the ZIP file before installing the extension in Chrome.
 
 ## Add an account
 
-1. Install PostNL from the Homey App Store.
+1. [Install the PostNL test version](https://homey.app/a/nl.lrvdlinden.postnl/test/) on your Homey.
 2. In Homey, choose **Add Device → PostNL → My PostNL**.
 3. Copy or open the PostNL sign-in URL shown in the pairing screen.
 4. Open this URL in Chrome and sign in to PostNL.

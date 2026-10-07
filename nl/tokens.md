@@ -2,6 +2,10 @@
 
 Tokens zijn gekoppeld aan een trigger. Een leeg veld betekent dat de informatie niet beschikbaar is. Afbeeldingstokens werken met Homey-acties die afbeeldingen ondersteunen. Controleer eerst de bijbehorende beschikbaarheidswaarde.
 
+![PostNL Flow-kaarten in het Nederlands](assets/flow-cards.png)
+
+Overzicht van de PostNL Flow-kaarten. De tokens per trigger worden hieronder beschreven.
+
 ## Er is nieuwe post onderweg
 
 | Token | Betekenis | Type |
