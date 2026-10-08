@@ -6,7 +6,7 @@ Controleer of dezelfde gegevens zichtbaar zijn in je eigen PostNL-account. Contr
 
 ## Aanmelding verlopen
 
-Open **Repareren** bij het betreffende apparaat en voer een nieuwe koppeling uit. Hergebruik geen oude callback-URL.
+Open **Repareren** bij het betreffende apparaat en log opnieuw in met je PostNL-account. Volg de aanmeldstappen om de verbinding te herstellen.
 
 ## Oude post ontbreekt in Mijn Post
 

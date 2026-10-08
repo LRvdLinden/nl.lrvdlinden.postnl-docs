@@ -6,7 +6,7 @@ Check whether the same information appears in your own PostNL account. Then veri
 
 ## Sign-in expired
 
-Open **Repair** on the affected device and complete a fresh sign-in. Do not reuse an old callback URL.
+Open **Repair** on the affected device and sign in again with your PostNL account. Follow the sign-in steps to restore the connection.
 
 ## Older mail is missing from My Post
 

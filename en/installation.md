@@ -10,25 +10,16 @@ This link installs the test version, which may be newer than the regular App Sto
 
 - A compatible Homey running version 12.3.0 or later. The app targets the local Homey platform.
 - A PostNL account with mail and/or parcels available.
-- Chrome with the PostNL Chrome Login Helper to capture the sign-in callback. Download the helper below. Additional setup instructions are available in the community topic.
-
-## Download the Login Helper
-
-[**Download the PostNL Homey Login Helper here**](https://lrvdlinden.app/Extentions/PostNL-Homey-Login-Helper.zip)
-
-Extract the ZIP file before installing the extension in Chrome.
 
 ## Add an account
 
 1. [Install the PostNL test version](https://homey.app/a/nl.lrvdlinden.postnl/test/) on your Homey.
 2. In Homey, choose **Add Device → PostNL → My PostNL**.
-3. Copy or open the PostNL sign-in URL shown in the pairing screen.
-4. Open this URL in Chrome and sign in to PostNL.
-5. Use the Chrome Login Helper to copy the full callback URL, starting with `postnl://login?code=…`.
-6. Paste it into **Callback URL** and complete account pairing.
-7. Wait for the first synchronization and check the device.
+3. Follow the sign-in steps in the pairing screen and log in with your PostNL account.
+4. Complete sign-in and finish adding the device.
+5. Wait for the first synchronization and check your mail and parcels.
 
-Use the sign-in URL from the same pairing session. Start again if the authorization code has expired.
+Sign in directly with your PostNL account. A Chrome extension or Login Helper is no longer required.
 
 ## Multiple accounts and reconnecting
 
@@ -36,4 +27,4 @@ Accounts are managed per device. Add another My PostNL device for another accoun
 
 The first successful synchronization establishes a baseline: existing mail and parcels are not all announced as new.
 
-[Homey App Store](https://homey.app/nl-nl/app/nl.lrvdlinden.postnl/PostNL/) · [Login Helper & support](https://community.homey.app/t/app-pro-postnl-for-homey/159674)
+[Homey App Store](https://homey.app/nl-nl/app/nl.lrvdlinden.postnl/PostNL/) · [Community support](https://community.homey.app/t/app-pro-postnl-for-homey/159674)
